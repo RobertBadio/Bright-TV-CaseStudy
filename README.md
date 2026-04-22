@@ -92,7 +92,7 @@ BrightTV aims to grow its subscription base by leveraging user data. This projec
 
 ## 🛠️ Tech Stack
 - **SQL** → Data cleaning & transformation  
-- **Excel / Power BI** → Analysis & dashboards  
+- **Excel → Analysis & dashboards  
 - **Databricks** → Data processing 
 
 ---
